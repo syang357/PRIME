@@ -1,2 +1,2 @@
 # PRIME
-The repository is for the data and code of a manuscript under review in _Nature Neuroscience_. 
+The repository contains the data and code for a manuscript currently under review by _Nature Neuroscience_.  
